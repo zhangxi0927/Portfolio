@@ -8,6 +8,13 @@
 ## blog(Django)
 
 
+
+## Fourier_transform_processing
+Drawing with Fourier transform and epicycles in processing.
+4 different versions you can try on your processing.
+**公開されいるプログラムのURL: https://github.com/zhangxi0927/Fourier_transform_processing**
+
+
 ## Reinforcement learning
 my Reinforcement learning study
 
