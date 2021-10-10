@@ -14,16 +14,20 @@ https://qiita.com/zhangxi0927/items/08dd1ae9ca6dfb14b617
 **公開されいるプログラムのURL: https://github.com/zhangxi0927/mycube**
 
 
-## blog(Django)
-
-**公開されいるプログラムのURL: https://github.com/zhangxi0927/django_project1**
-
-
 ## Fourier_transform_processing
 Drawing with Fourier transform and epicycles in processing.  
 4 different versions you can try on your processing.  
 
-**公開されいるプログラムのURL: https://github.com/zhangxi0927/Fourier_transform_processing**
+**公開されいるプログラムのURL: https://github.com/zhangxi0927/Fourier_transform_processing**  
+**This has been added to the Community Contributions of the Coding Train website: https://thecodingtrain.com/CodingChallenges/130.1-fourier-transform-drawing.html**
+
+
+
+
+
+## blog(Django)
+
+**公開されいるプログラムのURL: https://github.com/zhangxi0927/django_project1**
 
 
 ## Reinforcement learning
