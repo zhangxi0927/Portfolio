@@ -3,6 +3,9 @@ My Qiita:
 Git, GitActionなどのメモを投稿しました
 https://qiita.com/zhangxi0927
 
+EC site relevant:
+https://qiita.com/zhangxi0927/items/08dd1ae9ca6dfb14b617
+
 
 ## Rubik's cube robot
 このルービックキューブロボットを簡単に紹介すると、キューブの六つの面を認識し、キューブの解をKociembaというライブラリを利用して算出した後、STM 32にステップを送信し、キューブの解により、PC上で３Dモデルと２Dモデルを再生して回しながら、STM３２でモーターを制御し、実際にキューブ揃えることできました。  
