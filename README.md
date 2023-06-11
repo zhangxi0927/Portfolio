@@ -19,7 +19,7 @@ Drawing with Fourier transform and epicycles in processing.
 4 different versions you can try on your processing.  
 
 **公開されいるプログラムのURL: https://github.com/zhangxi0927/Fourier_transform_processing**  
-**This has been added to the Community Contributions of the Coding Train website: https://thecodingtrain.com/CodingChallenges/130.1-fourier-transform-drawing.html**
+**This has been added to the Community Contributions of the Coding Train website: https://thecodingtrain.com/challenges/130-drawing-with-fourier-transform-and-epicycles
 
 
 
